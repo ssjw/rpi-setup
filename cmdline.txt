@@ -1,0 +1,1 @@
+dwc_otg.lpm_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/disk/by-uuid/9b690f08-5904-4e00-be9a-9952542b6831 rootfstype=btrfs rootflags=subvol=root,noatime,compress=lzo elevator=deadline rootdelay=30 boot_delay=32 rootwait

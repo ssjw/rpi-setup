@@ -1,0 +1,1 @@
+dwc_otg.lpm_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/disk/by-uuid/1add1ebc-7b6e-4433-bfe9-a8490eea6b48 rootfstype=ext4 elevator=deadline rootdelay=30 boot_delay=32 rootwait
